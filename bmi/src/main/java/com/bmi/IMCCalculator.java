@@ -1,7 +1,5 @@
 package com.bmi;
 
-import java.util.HashMap;
-import java.util.Map;
 
 public class IMCCalculator {
 
